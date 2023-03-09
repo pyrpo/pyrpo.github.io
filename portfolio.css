@@ -108,6 +108,7 @@ body {
 img {
   max-width: 100%;
   display: inline-block;
+  margin: 1%;
 }
 a {
   text-decoration: none;
