@@ -474,9 +474,13 @@ section nav {
   align-items: center;
   justify-content: center;
 }
-#page02 [class^="img"], #page05 [class^="img"], #page09 [class^="img"] {
-  width: 25%;
-  height: 50em;
+#page02 [class^="img"], #page05 [class^="img"] {
+  width: 30%;
+  height: 60em;
+}
+#page09 [class^="img"] {
+  width: 24%;
+  height: 44em;
 }
 #page12 [class^="img"] {
   width: 60%;
